@@ -14,5 +14,4 @@ def solution(scoville, K):
         if len(scoville) == 1 and scoville[0] < K :
             return -1
     
-    
     return answer
